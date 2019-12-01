@@ -20,7 +20,8 @@ To run this project locally, perform the following steps.
 * Import the project into your IDE using the maven pom.xml.  In spring STS suite this is done by importing an existing maven project
 * Run the JUnit tests in the src/test/java folder.  If all pass you are good to go.
 
-Original https://github.com/dlbunker/ps-guitar-db
+*Original https://github.com/dlbunker/ps-guitar-db
+
 Fixes to get initial tests running
 ----------------------------------
 1) Copy POM from https://github.com/Wiktorl4z/SpringJPA
